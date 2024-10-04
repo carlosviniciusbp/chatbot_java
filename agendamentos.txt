@@ -1,0 +1,6 @@
+12312312312;Consulta com Cardiologista em 01/03/2025
+11111111111;Consulta com Cardiologista em 01/12/2024
+11111111111;Consulta com Ortopedista em 18/12/2024 �s 16:30
+03562407114;Consulta com Endocrinologista em 30/09/2024 às 18:45
+03562407114;Consulta com Endocrinologista em 30/09/2024 às 18:15
+03562407114;Consulta com Endocrinologista em 30/09/2024 às 18:45
